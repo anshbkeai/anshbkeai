@@ -1,6 +1,4 @@
-Perfect — let’s turn your GitHub profile README into a **detailed, professional overview** that includes **your real projects** based on all our previous conversations.
 
----
 
 ### 👋 Hi, I’m @anshbkeai
 
